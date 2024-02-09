@@ -6,7 +6,7 @@ print(' Calculator made with Python ')
 print('        09/02/2024          ')
 print('============================= \n')
 
-name = input(f'Enter your name: ')
+name = input('Enter your name: ')
 print(f'\nHello {name} ^_^ !')
 while True:
     print('\n1. Addition')
