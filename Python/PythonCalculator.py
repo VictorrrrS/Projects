@@ -1,9 +1,9 @@
 import time
 
 print('=============================')
-print('         - VictorS -         ')
+print('        - VictorS -         ')
 print(' Calculator made with Python ')
-print('         09/02/2024          ')
+print('        09/02/2024          ')
 print('============================= \n')
 
 name = input(f'Enter your name: ')
